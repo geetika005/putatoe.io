@@ -1,0 +1,42 @@
+.navdiv {
+  /*background: var(--bs-blue);*/
+  height: 50%;
+  padding: 5px;
+}
+
+.searchinput {
+  width: 90%;
+  float: left;
+}
+
+body {
+  position: relative;
+  background: #e0ffff;
+  padding: 0px;
+  min-height: 100vh;
+  margin: 0px;
+}
+
+.Emptydiv {
+  padding: 10px;
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  grid-template-rows: repeat(2,1fr);
+  grid-gap: 5px;
+  height: auto;
+  width: 100%;
+}
+
+.allservice {
+}
+
+.div-secondary {
+  background: white;
+  padding: 10px;
+  align-items: center;
+}
+
+.fas.fa-mobile-alt {
+}
+

@@ -1,0 +1,12 @@
+.spinner-parent {
+  position: fixed;
+  top: 50%;
+  left: 48%;
+}
+
+.spinner-border {
+  width: 4rem;
+  height: 4rem;
+  font-size: 4rem;
+}
+
